@@ -1,13 +1,19 @@
 # 隐私政策
 更新时间：2021年5月25日
+
 生效时间：2021年5月26日
+
 金华泽也及其关联方（简称"我们"或"公司"）作为"不靠王子的公主"的运营者，深知个人信息对您的重要性，我们将按照法律法规的规定，保护您的个人信息及隐私安全。我们制定本"隐私政策"并特别提示：希望您在使用"不靠王子的公主"及相关服务前仔细阅读并理解本隐私政策，以便做出适当的选择。
+
 本隐私政策将帮助您了解：
+
 1、我们会遵循隐私政策收集、使用您的信息，但不会仅因您同意本隐私政策而采用强制捆绑的方式一揽子收集个人信息。
 2、 当您使用或开启相关功能或使用服务时，为实现功能、服务所必需，我们会收集、使用相关信息。
 3、相关敏感权限均不会默认开启，只有经过您的明示授权才会在为实现特定功能或服务时使用，您也可以撤回授权。特别需要指出的是，即使经过您的授权，我们获得了这些敏感权限，也不会在相关功能或服务不需要时而收集您的信息。
 4、本隐私政策适用于您通过"不靠王子的公主"应用程序、供第三方网站和应用程序使用的"不靠王子的公主"软件开发工具包（SDK）和应用程序编程接口（API）方式来访问和使用我们的产品和服务。
+
 下文将帮您详细了解我们如何收集、使用、存储、传输与保护个人信息；帮您了解查询、访问、删除、更正、撤回授权个人信息的方式。
+
 1.我们如何收集和使用个人信息
 2.我们如何使用Cookie等同类技术
 3.我们如何共享、转让、公开披露个人信息
@@ -17,6 +23,7 @@
 7.未成年人条款
 8.隐私政策的修订和通知
 9.联系我们
+
 1.我们如何收集和使用个人信息
 我们会按照如下方式收集您在使用服务时主动提供的，以及通过自动化手段收集您在使用功能或接受服务过程中产生的信息：
 1.1 注册、登录
@@ -133,34 +140,4 @@ b. 对我们与之共享您个人信息的第三方，我们将审慎评估该�
 xxb5371@outlook.com，我们核查并验证您的用户身份后会及时反馈您的投诉与举报。
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xxb5/demo1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
